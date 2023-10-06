@@ -7,8 +7,6 @@
   <h3 align="center">Lynn Rest API Project</h3>
 </p>
 
-### E-Perpus
-
 Sebuah Project Rest API Sederhana Berbasis Javascript.
 
 Rest Api ini bebas untuk dikembangkan lagi atau untuk bahan pembelajaran kalian bagi yang mau membuat sebuah Rest Api.
